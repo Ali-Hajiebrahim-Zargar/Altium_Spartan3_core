@@ -1,0 +1,7 @@
+Change Component Designator: Old Designator=JTAG New Designator=JTAG1
+Change Component Designator: Old Designator=R1 New Designator=R3
+Change Component Designator: Old Designator=R2 New Designator=R1
+Change Component Designator: Old Designator=R3 New Designator=R2
+Change Component Designator: Old Designator=S1 New Designator=S2
+Change Component Designator: Old Designator=S2 New Designator=S1
+Change Component Designator: Old Designator=XTAL? New Designator=XTAL1
